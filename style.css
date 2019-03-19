@@ -1,0 +1,27 @@
+#title-tag {
+    color: red;
+}
+#title-bottom {
+color: blue;
+}
+
+.class text {
+color: blue;
+}
+p {
+    background-color: yellow;
+}
+.blue-text:hover{
+background-color: aqua;
+}
+.blue-item-list > li {
+    color: green;
+}
+.image:hover {
+    background-color: green;
+    border-style: dotted;
+
+}
+a:visited {
+  color: pink;
+}
